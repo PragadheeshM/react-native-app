@@ -1,0 +1,12 @@
+{
+    "greeting": "வணக்கம்!",
+    "enterProductName": "தயாரிப்பு பெயரை உள்ளிடவும்",
+    "productPlaceholder": "தயாரிப்பு பெயரை உள்ளிடவும்",
+    "fetchProductData": "தயாரிப்பு தரவைக் கொண்டு வாருங்கள்",
+    "product": "தயாரிப்பு",
+    "greenWater": "பசுமை நீர்",
+    "blueWater": "நீலம் நீர்",
+    "greyWater": "சாம்பல் நீர்",
+    "overallWater": "மொத்த நீர்",
+    "errorNotFound": "தயாரிப்பு கிடைக்கவில்லை"
+}

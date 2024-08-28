@@ -1,0 +1,12 @@
+{
+    "greeting": "Hello!",
+    "enterProductName": "Enter Product Name",
+    "productPlaceholder": "Type product name",
+    "fetchProductData": "Fetch Product Data",
+    "product": "Product",
+    "greenWater": "Green Water",
+    "blueWater": "Blue Water",
+    "greyWater": "Grey Water",
+    "overallWater": "Overall Water",
+    "errorNotFound": "Product not found"
+}
